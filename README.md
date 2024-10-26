@@ -1,1 +1,1 @@
-Added Solutions for Leetcode SQL Problems.
+Added Solutions for Leetcode SQL Problems
